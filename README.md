@@ -7,3 +7,5 @@
 - `pip install -r /path/to/requirements.txt`
 - `forge build`
 - `forge test`
+
+Forked and updated from https://github.com/0xKitsune/Foundry-Vyper
